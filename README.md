@@ -11,9 +11,9 @@
 
 ## GitHub Stats & Top Languages
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=finnleygrange&theme=github_dark&rank_icon=github&card_width=750px)](https://github.com/anuraghazra/github-readme-stats)
+[<img align="left" width="48%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=finnleygrange&theme=github_dark&rank_icon=github&card_width=750px" />](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finnleygrange&theme=github_dark&card_width=750px)](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" width="48%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnleygrange&theme=github_dark&card_width=750px" />](https://github.com/anuraghazra/github-readme-stats)
 
 
 
