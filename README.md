@@ -11,15 +11,15 @@
 
 ## GitHub Stats & Top Languages
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%;">
+<div style="width: 100%">
+  <div style="display: flex; justify-content: left;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=finnleygrange&theme=github_dark&rank_icon=github&card_width=750px" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=finnleygrange&theme=github_dark&rank_icon=github&card_width=500px" alt="GitHub Stats"/>
     </a>
   </div>
-  <div style="width: 48%;">
+  <div style="style="display: flex; justify-content: right;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnleygrange&theme=github_dark&card_width=750px" alt="Top Langs"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnleygrange&theme=github_dark&card_width=500px" alt="Top Langs"/>
     </a>
   </div>
 </div>
