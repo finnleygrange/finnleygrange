@@ -11,9 +11,18 @@
 
 ## GitHub Stats & Top Languages
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=finnleygrange&theme=github_dark&rank_icon=github&card_width=750px)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finnleygrange&theme=github_dark&card_width=750px)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 48%;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=finnleygrange&theme=github_dark&rank_icon=github&card_width=750px" alt="GitHub Stats"/>
+    </a>
+  </div>
+  <div style="width: 48%;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnleygrange&theme=github_dark&card_width=750px" alt="Top Langs"/>
+    </a>
+  </div>
+</div>
 
 <!--
 **finnleygrange/finnleygrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
