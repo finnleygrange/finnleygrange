@@ -11,9 +11,16 @@
 
 ## GitHub Stats & Top Languages
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=finnleygrange&theme=github_dark&rank_icon=github&card_width=500px" alt="GitHub Stats"/>
+<div>
+  <div style="padding: 5px;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=finnleygrange&theme=github_dark&rank_icon=github&card_width=500px" alt="GitHub Stats"/>
+    
+  </div style="padding: 5px;">
+  <div>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnleygrange&theme=github_dark&card_width=500px" alt="Top Langs"/>
+  </div>
+</div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnleygrange&theme=github_dark&card_width=500px" alt="Top Langs"/>
 
 
 <!--
