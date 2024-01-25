@@ -2,15 +2,30 @@
 
 ## About Me
 
-- 👨‍💻 I'm a passionate C# developer with a love for building robust and scalable applications.
-- 🌐 Currently exploring various technologies to broaden my skill set and stay adaptable in the ever-evolving tech landscape.
-- 🚀 While I don't have specific aspirations yet, I'm always open to new challenges and learning experiences.
-- 🎯 My coding journey involves working on a variety of projects, from small utilities to experimenting with different frameworks.
-- 🌟 I believe in the power of curiosity and continuous learning, striving to improve my coding skills every day.
-- 🎸 Outside of coding, you might find me enjoying music or diving into other creative pursuits.
+👨‍💻 I'm a 2nd-year Software Engineering student at Sheffield Hallam University, currently seeking a placement opportunity.
+
+🌟 Driven by curiosity and a passion for continuous learning, I immerse myself in the world of coding. Beyond the screen, you'll find me playing guitar, enjoying music, exploring video games, and following my favorite content creators.
+
+Feel free to reach out if you have any questions or if you'd like to know more!
+
+
 
 ## Projects
+- **Project 1:** "Shoot Shoot Game" is a top-down, endless shooter game that holds a special place in my heart. Developed during my time in college as part of a game development course using Unity, this project remains a nostalgic favorite.
 
+  <div style="text-align:center;">
+    <a href="https://www.youtube.com/watch?v=9jYZqDkpeIw" target="_blank">
+      <img src="https://i9.ytimg.com/vi_webp/9jYZqDkpeIw/mq2.webp?sqp=CNzUxq0G&rs=AOn4CLCy4B7lkttqbTpJo6Q5QAX_ABbpHQ" alt="Shoot Shoot Game Video" style="width:50%; border-radius: 10px;">
+    </a>
+  </div>
+  
+  First Taste of Completion:
+  "Shoot Shoot Game" represents more than just a project; it stands as my first complete and proper game. As the inaugural creation that felt truly finished, it marks a significant milestone in my journey as a developer.
+  
+  Note:
+  Unfortunately, the source code for "Shoot Shoot Game" is no longer available. However, you can catch a glimpse of the game's excitement and charm in the video above.
+  
+  
 
 ## GitHub Stats & Top Languages
 
@@ -43,6 +58,9 @@
 
 ### Databases:
 [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
 ### Development Environment:
 [![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/index.html)
+
+Feel free to reach out for collaboration or just to say hi!
