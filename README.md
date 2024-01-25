@@ -9,6 +9,9 @@
 - 🌟 I believe in the power of curiosity and continuous learning, striving to improve my coding skills every day.
 - 🎸 Outside of coding, you might find me enjoying music or diving into other creative pursuits.
 
+## Projects
+
+
 ## GitHub Stats & Top Languages
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=finnleygrange&theme=github_dark&rank_icon=github&card_width=450px)](https://github.com/anuraghazra/github-readme-stats)
@@ -31,7 +34,6 @@
 ### Frameworks:
 [![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 
 ### Tools:
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -44,21 +46,3 @@
 
 ### Development Environment:
 [![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/index.html)
-
-<!-- Add or remove badges as needed -->
-
-
-<!--
-**finnleygrange/finnleygrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
