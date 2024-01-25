@@ -15,7 +15,7 @@ Feel free to reach out if you have any questions or if you'd like to know more!
 
   <div style="text-align:center;">
     <a href="https://www.youtube.com/watch?v=9jYZqDkpeIw" target="_blank">
-      <img src="https://i9.ytimg.com/vi_webp/9jYZqDkpeIw/mq2.webp?sqp=CNzUxq0G&rs=AOn4CLCy4B7lkttqbTpJo6Q5QAX_ABbpHQ" alt="Shoot Shoot Game Video" style="width:50%; border-radius: 10px;">
+      <img src="shootshootgamethubmnail.jpg" alt="Shoot Shoot Game Video" style="width:50%; border-radius: 10px;">
     </a>
   </div>
   
