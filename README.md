@@ -1,6 +1,6 @@
 ![Header](./assets/finnleygrange.png)
 
-## About Mehttps://github.com/finnleygrange/finnleygrange/tree/main
+## About Me
 
 👨‍💻 I'm a 2nd-year Software Engineering student at Sheffield Hallam University, currently seeking a placement opportunity.
 
