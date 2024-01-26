@@ -13,7 +13,7 @@ Feel free to reach out if you have any questions or if you'd like to know more!
 ## Projects
 
 <details>
-  <summary>🎮 Games With Unity </summary>
+  <summary><h3>🎮 Games With Unity </h3></summary>
   <br />
   
   <!-- BEGIN YOUTUBE-CARDS -->
