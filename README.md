@@ -11,6 +11,9 @@ Feel free to reach out if you have any questions or if you'd like to know more!
 
 
 ## Projects
+
+<details>
+  <summary><h2>🎮 Games With Unity </h2></summary>
   <div style="text-align:center;">
     <a href="https://www.youtube.com/watch?v=9jYZqDkpeIw" target="_blank">
       <img src="shootshootgamethumbnail.jpg" alt="Shoot Shoot Game Video" style="width:50%; border-radius: 10px;">
@@ -25,6 +28,9 @@ Feel free to reach out if you have any questions or if you'd like to know more!
       <img src="parkourfpsshooter.jpg" alt="Shoot Shoot Game Video" style="width:50%; border-radius: 10px;">
     </a>
   </div>
+</details>
+
+  
   
   
 
