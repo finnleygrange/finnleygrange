@@ -13,7 +13,7 @@ Feel free to reach out if you have any questions or if you'd like to know more!
 ## Projects
   <div style="text-align:center;">
     <a href="https://www.youtube.com/watch?v=9jYZqDkpeIw" target="_blank">
-      <img src="shootshootgamethubmnail.jpg" alt="Shoot Shoot Game Video" style="width:50%; border-radius: 10px;">
+      <img src="shootshootgamethumbnail.jpg" alt="Shoot Shoot Game Video" style="width:50%; border-radius: 10px;">
     </a>
     <a href="https://www.youtube.com/watch?v=4YujIR6nsZs" target="_blank">
       <img src="pifarmthumbnail.jpg" alt="Shoot Shoot Game Video" style="width:50%; border-radius: 10px;">
