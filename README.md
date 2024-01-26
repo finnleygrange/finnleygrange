@@ -11,19 +11,17 @@ Feel free to reach out if you have any questions or if you'd like to know more!
 
 
 ## Projects
-- **Project 1:** "Shoot Shoot Game" is a top-down, endless shooter game that holds a special place in my heart. Developed during my time in college as part of a game development course using Unity, this project remains a nostalgic favorite.
-
   <div style="text-align:center;">
     <a href="https://www.youtube.com/watch?v=9jYZqDkpeIw" target="_blank">
       <img src="shootshootgamethubmnail.jpg" alt="Shoot Shoot Game Video" style="width:50%; border-radius: 10px;">
     </a>
+    <a href="https://www.youtube.com/watch?v=4YujIR6nsZs" target="_blank">
+      <img src="shootshootgamethubmnail.jpg" alt="Shoot Shoot Game Video" style="width:50%; border-radius: 10px;">
+    </a>
+    <a href="https://www.youtube.com/watch?v=Fxd3qDLaBLc" target="_blank">
+      <img src="shootshootgamethubmnail.jpg" alt="Shoot Shoot Game Video" style="width:50%; border-radius: 10px;">
+    </a>
   </div>
-  
-  First Taste of Completion:
-  "Shoot Shoot Game" represents more than just a project; it stands as my first complete and proper game. As the inaugural creation that felt truly finished, it marks a significant milestone in my journey as a developer.
-  
-  Note:
-  Unfortunately, the source code for "Shoot Shoot Game" is no longer available. However, you can catch a glimpse of the game's excitement and charm in the video above.
   
   
 
