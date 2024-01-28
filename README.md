@@ -35,7 +35,7 @@ Feel free to reach out if you have any questions or if you'd like to know more!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=finnleygrange&theme=github_dark&rank_icon=github&card_width=450px&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finnleygrange&theme=github_dark&card_width=450px&hide=hlsl,shaderlab)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finnleygrange&theme=github_dark&card_width=450px&hide=hlsl,shaderlab,hack&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming Languages, Frameworks, Tools & Databases
 
