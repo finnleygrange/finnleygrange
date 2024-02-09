@@ -1,5 +1,7 @@
 ![Header](./assets/finnleygrange.png)
 
+[<kbd> <br>Portfolio<br> </kbd>](https://finnleygrange.github.io/portfolio/)
+
 ## About Me
 
 👨‍💻 I'm a 2nd-year Software Engineering student at Sheffield Hallam University, currently seeking a placement opportunity.
@@ -7,6 +9,10 @@
 🌟 Driven by curiosity and a passion for continuous learning, I immerse myself in the world of coding. Beyond the screen, you'll find me playing guitar, enjoying music, exploring video games, and following my favorite content creators.
 
 Feel free to reach out if you have any questions or if you'd like to know more!
+
+
+
+
 
 
 
