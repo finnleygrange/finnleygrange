@@ -4,38 +4,11 @@
 
 ## About Me
 
-👨‍💻 I'm a 2nd-year Software Engineering student at Sheffield Hallam University, currently seeking a placement opportunity.
+I'm a 2nd-year Software Engineering student at Sheffield Hallam University, currently seeking a placement opportunity.
 
-🌟 Driven by curiosity and a passion for continuous learning, I immerse myself in the world of coding. Beyond the screen, you'll find me playing guitar, enjoying music, exploring video games, and following my favorite content creators.
+Driven by curiosity and a passion for continuous learning, I immerse myself in the world of coding. Beyond the screen, you'll find me playing guitar, enjoying music, and exploring video games.
 
-Feel free to reach out if you have any questions or if you'd like to know more!
-
-
-
-
-
-
-
-## Projects
-
-<details>
-  <summary><h3>🎮 Games With Unity </h3></summary>
-  <br />
-  
-  <!-- BEGIN YOUTUBE-CARDS -->
-[![Parkour FPS Shooter](https://ytcards.demolab.com/?id=RPX1FmF50bI&title=Parkour+FPS+Shooter&lang=en&timestamp=1706243087&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Parkour FPS Shooter")](https://www.youtube.com/watch?v=RPX1FmF50bI)
-[![Pi Farm](https://ytcards.demolab.com/?id=4YujIR6nsZs&title=Pi+Farm&lang=en&timestamp=1706241708&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Pi Farm")](https://www.youtube.com/watch?v=4YujIR6nsZs)
-[![Bear-ly There](https://ytcards.demolab.com/?id=Fxd3qDLaBLc&title=Bear-ly+There&lang=en&timestamp=1621622635&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Bear-ly There")](https://www.youtube.com/watch?v=Fxd3qDLaBLc)
-[![Shoot Shoot](https://ytcards.demolab.com/?id=9jYZqDkpeIw&title=Shoot+Shoot&lang=en&timestamp=1611440858&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Shoot Shoot")](https://www.youtube.com/watch?v=9jYZqDkpeIw)
-<!-- END YOUTUBE-CARDS -->
-  
-
-</details>
-
-
-  
-  
-  
+Feel free to reach out if you have any questions or if you'd like to know more!  
 
 ## GitHub Stats & Top Languages
 
